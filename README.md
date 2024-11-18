@@ -33,6 +33,11 @@ To get a local copy up and running, follow these simple steps:
 ### Usage
 - Open `index.html` in your web browser to use the calculator.
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/26e63aac-7054-47dd-ba7e-89c7c68e76c6)
+
+
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements or bug fixes.
 
